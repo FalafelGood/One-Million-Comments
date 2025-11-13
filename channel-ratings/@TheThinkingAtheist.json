@@ -1,0 +1,19 @@
+{
+    "channel-name": "The Thinking Atheist",
+    "channel-id": "@TheThinkingAtheist",
+    "timestamp": "2025-10-30T14:08:39.001641",
+    "num-comments-analyzed": 9393,
+    "average-score": {
+        "avg_pos": 0.149,
+        "avg_neu": 0.761,
+        "avg_neg": 0.086
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.151,
+        "w_ave_neu": 0.752,
+        "w_ave_neg": 0.096
+    },
+    "kindness": 0.2226720647773279,
+    "volatility": 1.2391573729863694,
+    "tags": ["atheist"]
+}

@@ -1,0 +1,21 @@
+{
+    "channel-name": "Huda Beauty",
+    "channel-id": "@Hudabeauty",
+    "tags": [
+        "makeup"
+    ],
+    "timestamp": "2025-11-03T14:33:47.056339",
+    "num-comments-analyzed": 3287,
+    "average-score": {
+        "avg_pos": 0.157,
+        "avg_neu": 0.805,
+        "avg_neg": 0.017
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.108,
+        "w_ave_neu": 0.878,
+        "w_ave_neg": 0.01
+    },
+    "kindness": 0.8305084745762713,
+    "volatility": 1.0245901639344261
+}

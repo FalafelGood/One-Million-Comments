@@ -1,0 +1,19 @@
+{
+    "channel-name": "PowerfulJRE",
+    "channel-id": "@joerogan",
+    "timestamp": "2025-10-28T21:12:43.897384",
+    "num-comments-analyzed": 5000,
+    "average-score": {
+        "avg_pos": 0.142,
+        "avg_neu": 0.774,
+        "avg_neg": 0.08
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.107,
+        "w_ave_neu": 0.81,
+        "w_ave_neg": 0.083
+    },
+    "kindness": 0.1263157894736842,
+    "volatility": 1.199040767386091,
+    "tags": ["popular", "right"]
+}

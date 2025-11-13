@@ -1,0 +1,19 @@
+{
+    "channel-name": "Yasir Qadhi",
+    "channel-id": "@YasirQadhi",
+    "timestamp": "2025-10-30T14:37:12.305043",
+    "num-comments-analyzed": 567,
+    "average-score": {
+        "avg_pos": 0.146,
+        "avg_neu": 0.792,
+        "avg_neg": 0.053
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.18,
+        "w_ave_neu": 0.771,
+        "w_ave_neg": 0.046
+    },
+    "kindness": 0.592920353982301,
+    "volatility": 1.1049723756906078,
+    "tags": ["islam"]
+}

@@ -1,0 +1,19 @@
+{
+    "channel-name": "Lindsay Ellis",
+    "channel-id": "@LindsayEllisVids",
+    "timestamp": "2025-10-30T14:31:18.318064",
+    "num-comments-analyzed": 44818,
+    "average-score": {
+        "avg_pos": 0.151,
+        "avg_neu": 0.769,
+        "avg_neg": 0.077
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.124,
+        "w_ave_neu": 0.787,
+        "w_ave_neg": 0.089
+    },
+    "kindness": 0.1643192488262911,
+    "volatility": 1.21654501216545,
+    "tags": ["left"]
+}

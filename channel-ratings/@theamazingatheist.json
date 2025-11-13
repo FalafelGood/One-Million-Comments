@@ -1,0 +1,19 @@
+{
+    "channel-name": "The Amazing Atheist",
+    "channel-id": "@theamazingatheist",
+    "timestamp": "2025-10-30T14:08:40.715252",
+    "num-comments-analyzed": 338,
+    "average-score": {
+        "avg_pos": 0.119,
+        "avg_neu": 0.773,
+        "avg_neg": 0.106
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.094,
+        "w_ave_neu": 0.753,
+        "w_ave_neg": 0.153
+    },
+    "kindness": -0.23886639676113358,
+    "volatility": 1.231527093596059,
+    "tags": ["atheist"]
+}

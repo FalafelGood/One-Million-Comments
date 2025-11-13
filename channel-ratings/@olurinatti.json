@@ -1,0 +1,19 @@
+{
+    "channel-name": "Olurinatti",
+    "channel-id": "@olurinatti",
+    "timestamp": "2025-10-30T14:32:33.208046",
+    "num-comments-analyzed": 17780,
+    "average-score": {
+        "avg_pos": 0.171,
+        "avg_neu": 0.745,
+        "avg_neg": 0.078
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.143,
+        "w_ave_neu": 0.752,
+        "w_ave_neg": 0.105
+    },
+    "kindness": 0.15322580645161288,
+    "volatility": 1.2658227848101264,
+    "tags": ["left"]
+}

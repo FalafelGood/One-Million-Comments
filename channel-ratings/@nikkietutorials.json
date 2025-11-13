@@ -1,0 +1,21 @@
+{
+    "channel-name": "NikkieTutorials",
+    "channel-id": "@nikkietutorials",
+    "tags": [
+        "makeup"
+    ],
+    "timestamp": "2025-11-03T14:33:28.633794",
+    "num-comments-analyzed": 45103,
+    "average-score": {
+        "avg_pos": 0.223,
+        "avg_neu": 0.735,
+        "avg_neg": 0.036
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.198,
+        "w_ave_neu": 0.754,
+        "w_ave_neg": 0.047
+    },
+    "kindness": 0.616326530612245,
+    "volatility": 1.1049723756906078
+}

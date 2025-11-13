@@ -1,0 +1,19 @@
+{
+    "channel-name": "BobSamurai Anime Reviews",
+    "channel-id": "@bobsamurai",
+    "timestamp": "2025-10-30T14:19:29.502264",
+    "num-comments-analyzed": 2727,
+    "average-score": {
+        "avg_pos": 0.199,
+        "avg_neu": 0.748,
+        "avg_neg": 0.051
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.192,
+        "w_ave_neu": 0.761,
+        "w_ave_neg": 0.047
+    },
+    "kindness": 0.6066945606694562,
+    "volatility": 1.1037527593818983,
+    "tags": ["anime"]
+}

@@ -1,0 +1,19 @@
+{
+    "channel-name": "Catholic Answers Live",
+    "channel-id": "@CA-Live",
+    "timestamp": "2025-10-30T14:11:04.370001",
+    "num-comments-analyzed": 99,
+    "average-score": {
+        "avg_pos": 0.198,
+        "avg_neu": 0.755,
+        "avg_neg": 0.048
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.231,
+        "w_ave_neu": 0.732,
+        "w_ave_neg": 0.037
+    },
+    "kindness": 0.7238805970149254,
+    "volatility": 1.0799136069114472,
+    "tags": ["catholic"]
+}

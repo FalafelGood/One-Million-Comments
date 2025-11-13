@@ -1,0 +1,19 @@
+{
+    "channel-name": "Ben Shapiro",
+    "channel-id": "@BenShapiro",
+    "timestamp": "2025-10-28T21:11:13.751850",
+    "num-comments-analyzed": 10546,
+    "average-score": {
+        "avg_pos": 0.119,
+        "avg_neu": 0.78,
+        "avg_neg": 0.098
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.11,
+        "w_ave_neu": 0.783,
+        "w_ave_neg": 0.106
+    },
+    "kindness": 0.018518518518518535,
+    "volatility": 1.2706480304955527,
+    "tags": ["politics", "right"]
+}

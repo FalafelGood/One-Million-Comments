@@ -1,0 +1,19 @@
+{
+    "channel-name": "Genetically Modified Skeptic",
+    "channel-id": "@GeneticallyModifiedSkeptic",
+    "timestamp": "2025-10-30T14:08:04.510751",
+    "num-comments-analyzed": 43472,
+    "average-score": {
+        "avg_pos": 0.134,
+        "avg_neu": 0.777,
+        "avg_neg": 0.087
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.126,
+        "w_ave_neu": 0.774,
+        "w_ave_neg": 0.1
+    },
+    "kindness": 0.11504424778761059,
+    "volatility": 1.25,
+    "tags": ["atheist"]
+}

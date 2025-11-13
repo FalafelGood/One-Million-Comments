@@ -1,0 +1,19 @@
+{
+    "channel-name": "J.J. McCullough",
+    "channel-id": "@JJMcCullough",
+    "timestamp": "2025-10-28T21:01:00.288647",
+    "num-comments-analyzed": 44205,
+    "average-score": {
+        "avg_pos": 0.137,
+        "avg_neu": 0.802,
+        "avg_neg": 0.06
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.131,
+        "w_ave_neu": 0.807,
+        "w_ave_neg": 0.062
+    },
+    "kindness": 0.35751295336787564,
+    "volatility": 1.141552511415525,
+    "tags": ["video-essays"]
+}

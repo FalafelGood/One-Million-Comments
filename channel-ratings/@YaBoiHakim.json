@@ -1,0 +1,19 @@
+{
+    "channel-name": "Hakim",
+    "channel-id": "@YaBoiHakim",
+    "timestamp": "2025-10-28T21:09:54.764912",
+    "num-comments-analyzed": 38361,
+    "average-score": {
+        "avg_pos": 0.123,
+        "avg_neu": 0.785,
+        "avg_neg": 0.089
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.111,
+        "w_ave_neu": 0.787,
+        "w_ave_neg": 0.102
+    },
+    "kindness": 0.042253521126760604,
+    "volatility": 1.2562814070351758,
+    "tags": ["politics", "left"]
+}

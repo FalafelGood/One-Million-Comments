@@ -1,0 +1,19 @@
+{
+    "channel-name": "Tucker Carlson",
+    "channel-id": "@TuckerCarlson",
+    "timestamp": "2025-10-28T21:15:36.560442",
+    "num-comments-analyzed": 32780,
+    "average-score": {
+        "avg_pos": 0.141,
+        "avg_neu": 0.763,
+        "avg_neg": 0.09
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.098,
+        "w_ave_neu": 0.789,
+        "w_ave_neg": 0.113
+    },
+    "kindness": -0.07109004739336491,
+    "volatility": 1.243781094527363,
+    "tags": ["news", "right"]
+}

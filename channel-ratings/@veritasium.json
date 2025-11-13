@@ -1,0 +1,19 @@
+{
+    "channel-name": "Veritasium",
+    "channel-id": "@veritasium",
+    "timestamp": "2025-10-30T13:39:05.990468",
+    "num-comments-analyzed": 47936,
+    "average-score": {
+        "avg_pos": 0.125,
+        "avg_neu": 0.812,
+        "avg_neg": 0.059
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.128,
+        "w_ave_neu": 0.793,
+        "w_ave_neg": 0.078
+    },
+    "kindness": 0.24271844660194175,
+    "volatility": 1.1862396204033214,
+    "tags": ["education"]
+}

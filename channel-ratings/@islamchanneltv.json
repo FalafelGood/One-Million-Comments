@@ -1,0 +1,19 @@
+{
+    "channel-name": "Islam Channel",
+    "channel-id": "@islamchanneltv",
+    "timestamp": "2025-10-30T14:36:13.556654",
+    "num-comments-analyzed": 1949,
+    "average-score": {
+        "avg_pos": 0.136,
+        "avg_neu": 0.796,
+        "avg_neg": 0.052
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.158,
+        "w_ave_neu": 0.8,
+        "w_ave_neg": 0.038
+    },
+    "kindness": 0.6122448979591836,
+    "volatility": 1.0869565217391304,
+    "tags": ["islam"]
+}

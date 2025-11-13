@@ -1,0 +1,21 @@
+{
+    "channel-name": "wickydkewl",
+    "channel-id": "@DaveyWaveyRaw",
+    "tags": [
+        "queer"
+    ],
+    "timestamp": "2025-11-03T14:51:35.996730",
+    "num-comments-analyzed": 3179,
+    "average-score": {
+        "avg_pos": 0.191,
+        "avg_neu": 0.74,
+        "avg_neg": 0.06
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.176,
+        "w_ave_neu": 0.768,
+        "w_ave_neg": 0.054
+    },
+    "kindness": 0.5304347826086957,
+    "volatility": 1.1235955056179776
+}

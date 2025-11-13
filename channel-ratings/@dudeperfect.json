@@ -1,0 +1,19 @@
+{
+    "channel-name": "Dude Perfect",
+    "channel-id": "@dudeperfect",
+    "timestamp": "2025-10-30T13:52:31.088893",
+    "num-comments-analyzed": 40323,
+    "average-score": {
+        "avg_pos": 0.173,
+        "avg_neu": 0.764,
+        "avg_neg": 0.055
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.185,
+        "w_ave_neu": 0.77,
+        "w_ave_neg": 0.045
+    },
+    "kindness": 0.6086956521739132,
+    "volatility": 1.0989010989010988,
+    "tags": ["popular"]
+}

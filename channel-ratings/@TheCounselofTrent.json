@@ -1,0 +1,19 @@
+{
+    "channel-name": "The Counsel of Trent",
+    "channel-id": "@TheCounselofTrent",
+    "timestamp": "2025-10-30T14:02:59.684536",
+    "num-comments-analyzed": 11852,
+    "average-score": {
+        "avg_pos": 0.172,
+        "avg_neu": 0.753,
+        "avg_neg": 0.072
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.183,
+        "w_ave_neu": 0.754,
+        "w_ave_neg": 0.062
+    },
+    "kindness": 0.49387755102040815,
+    "volatility": 1.1428571428571428,
+    "tags": ["catholic"]
+}

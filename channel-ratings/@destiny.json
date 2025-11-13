@@ -1,0 +1,19 @@
+{
+    "channel-name": "Destiny",
+    "channel-id": "@destiny",
+    "timestamp": "2025-10-30T14:13:38.546498",
+    "num-comments-analyzed": 2207,
+    "average-score": {
+        "avg_pos": 0.121,
+        "avg_neu": 0.784,
+        "avg_neg": 0.094
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.12,
+        "w_ave_neu": 0.776,
+        "w_ave_neg": 0.103
+    },
+    "kindness": 0.07623318385650225,
+    "volatility": 1.2610340479192939,
+    "tags": ["politics", "left"]
+}

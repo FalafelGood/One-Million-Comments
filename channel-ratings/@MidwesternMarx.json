@@ -1,0 +1,19 @@
+{
+    "channel-name": "Midwestern Marx",
+    "channel-id": "@MidwesternMarx",
+    "timestamp": "2025-10-28T21:06:31.906491",
+    "num-comments-analyzed": 653,
+    "average-score": {
+        "avg_pos": 0.141,
+        "avg_neu": 0.77,
+        "avg_neg": 0.081
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.125,
+        "w_ave_neu": 0.792,
+        "w_ave_neg": 0.08
+    },
+    "kindness": 0.2195121951219512,
+    "volatility": 1.194743130227001,
+    "tags": ["politics", "left"]
+}

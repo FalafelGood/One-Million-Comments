@@ -1,0 +1,19 @@
+{
+    "channel-name": "Sky News",
+    "channel-id": "@SkyNews",
+    "timestamp": "2025-10-28T21:17:08.866747",
+    "num-comments-analyzed": 1468,
+    "average-score": {
+        "avg_pos": 0.123,
+        "avg_neu": 0.76,
+        "avg_neg": 0.106
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.135,
+        "w_ave_neu": 0.743,
+        "w_ave_neg": 0.118
+    },
+    "kindness": 0.06719367588932812,
+    "volatility": 1.3157894736842106,
+    "tags": ["news", "right"]
+}

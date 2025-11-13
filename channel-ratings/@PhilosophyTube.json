@@ -1,0 +1,21 @@
+{
+    "channel-name": "Philosophy Tube",
+    "channel-id": "@PhilosophyTube",
+    "tags": [
+        "queer"
+    ],
+    "timestamp": "2025-11-03T14:51:18.521792",
+    "num-comments-analyzed": 19168,
+    "average-score": {
+        "avg_pos": 0.202,
+        "avg_neu": 0.73,
+        "avg_neg": 0.065
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.152,
+        "w_ave_neu": 0.778,
+        "w_ave_neg": 0.07
+    },
+    "kindness": 0.3693693693693693,
+    "volatility": 1.1627906976744187
+}

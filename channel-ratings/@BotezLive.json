@@ -1,0 +1,19 @@
+{
+    "channel-name": "BotezLive",
+    "channel-id": "@BotezLive",
+    "tags": ["chess"],
+    "timestamp": "2025-11-03T14:13:59.279320",
+    "num-comments-analyzed": 10349,
+    "average-score": {
+        "avg_pos": 0.166,
+        "avg_neu": 0.762,
+        "avg_neg": 0.064
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.163,
+        "w_ave_neu": 0.776,
+        "w_ave_neg": 0.06
+    },
+    "kindness": 0.46188340807174894,
+    "volatility": 1.1376564277588168
+}

@@ -1,0 +1,19 @@
+{
+    "channel-name": "ContraPoints",
+    "channel-id": "@ContraPoints",
+    "timestamp": "2025-10-28T21:04:32.553102",
+    "num-comments-analyzed": 33000,
+    "average-score": {
+        "avg_pos": 0.154,
+        "avg_neu": 0.763,
+        "avg_neg": 0.078
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.136,
+        "w_ave_neu": 0.787,
+        "w_ave_neg": 0.077
+    },
+    "kindness": 0.27699530516431925,
+    "volatility": 1.1820330969267139,
+    "tags": ["politics", "left"]
+}

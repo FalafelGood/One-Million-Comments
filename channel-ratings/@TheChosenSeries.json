@@ -1,0 +1,19 @@
+{
+    "channel-name": "The Chosen",
+    "channel-id": "@TheChosenSeries",
+    "timestamp": "2025-10-30T13:55:39.973961",
+    "num-comments-analyzed": 16926,
+    "average-score": {
+        "avg_pos": 0.241,
+        "avg_neu": 0.712,
+        "avg_neg": 0.031
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.196,
+        "w_ave_neu": 0.745,
+        "w_ave_neg": 0.057
+    },
+    "kindness": 0.549407114624506,
+    "volatility": 1.1312217194570136,
+    "tags": ["protestant"]
+}

@@ -1,0 +1,19 @@
+{
+    "channel-name": "Bishop Robert Barron",
+    "channel-id": "@BishopBarron",
+    "timestamp": "2025-10-30T14:02:18.164476",
+    "num-comments-analyzed": 7165,
+    "average-score": {
+        "avg_pos": 0.235,
+        "avg_neu": 0.712,
+        "avg_neg": 0.048
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.237,
+        "w_ave_neu": 0.712,
+        "w_ave_neg": 0.05
+    },
+    "kindness": 0.6515679442508712,
+    "volatility": 1.1123470522803114,
+    "tags": ["catholic"]
+}

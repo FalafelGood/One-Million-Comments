@@ -1,0 +1,21 @@
+{
+    "channel-name": "penguinz0",
+    "channel-id": "@penguinz0",
+    "tags": [
+        "popular"
+    ],
+    "timestamp": "2025-11-03T14:41:42.816593",
+    "num-comments-analyzed": 16930,
+    "average-score": {
+        "avg_pos": 0.124,
+        "avg_neu": 0.78,
+        "avg_neg": 0.094
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.098,
+        "w_ave_neu": 0.773,
+        "w_ave_neg": 0.129
+    },
+    "kindness": -0.13656387665198239,
+    "volatility": 1.243781094527363
+}

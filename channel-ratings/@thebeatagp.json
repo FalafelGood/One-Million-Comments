@@ -1,0 +1,19 @@
+{
+    "channel-name": "THE BEAT by Allen Parr",
+    "channel-id": "@thebeatagp",
+    "timestamp": "2025-10-30T14:01:49.040419",
+    "num-comments-analyzed": 13891,
+    "average-score": {
+        "avg_pos": 0.197,
+        "avg_neu": 0.736,
+        "avg_neg": 0.062
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.193,
+        "w_ave_neu": 0.734,
+        "w_ave_neg": 0.072
+    },
+    "kindness": 0.45660377358490567,
+    "volatility": 1.1695906432748537,
+    "tags": ["protestant"]
+}

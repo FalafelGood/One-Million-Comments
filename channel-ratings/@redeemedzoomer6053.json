@@ -1,0 +1,19 @@
+{
+    "channel-name": "Redeemed Zoomer",
+    "channel-id": "@redeemedzoomer6053",
+    "timestamp": "2025-10-30T13:57:10.025083",
+    "num-comments-analyzed": 29439,
+    "average-score": {
+        "avg_pos": 0.13,
+        "avg_neu": 0.806,
+        "avg_neg": 0.062
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.13,
+        "w_ave_neu": 0.816,
+        "w_ave_neg": 0.053
+    },
+    "kindness": 0.42076502732240445,
+    "volatility": 1.1198208286674132,
+    "tags": ["protestant"]
+}

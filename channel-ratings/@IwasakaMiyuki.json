@@ -1,0 +1,19 @@
+{
+    "channel-name": "Iwasaka Miyuki",
+    "channel-id": "@IwasakaMiyuki",
+    "timestamp": "2025-10-30T14:19:49.030775",
+    "num-comments-analyzed": 3019,
+    "average-score": {
+        "avg_pos": 0.23,
+        "avg_neu": 0.733,
+        "avg_neg": 0.035
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.209,
+        "w_ave_neu": 0.732,
+        "w_ave_neg": 0.06
+    },
+    "kindness": 0.553903345724907,
+    "volatility": 1.1350737797956867,
+    "tags": ["anime"]
+}

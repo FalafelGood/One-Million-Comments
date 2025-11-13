@@ -1,0 +1,21 @@
+{
+    "channel-name": "Patricia Bright",
+    "channel-id": "@PatriciaBright",
+    "tags": [
+        "makeup"
+    ],
+    "timestamp": "2025-11-03T14:34:04.557668",
+    "num-comments-analyzed": 3132,
+    "average-score": {
+        "avg_pos": 0.235,
+        "avg_neu": 0.702,
+        "avg_neg": 0.05
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.176,
+        "w_ave_neu": 0.708,
+        "w_ave_neg": 0.114
+    },
+    "kindness": 0.21379310344827582,
+    "volatility": 1.298701298701299
+}

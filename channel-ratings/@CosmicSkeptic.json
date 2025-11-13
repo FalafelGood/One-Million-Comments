@@ -1,0 +1,19 @@
+{
+    "channel-name": "Alex O'Connor",
+    "channel-id": "@CosmicSkeptic",
+    "timestamp": "2025-10-28T17:14:13.690405",
+    "num-comments-analyzed": 45756,
+    "average-score": {
+        "avg_pos": 0.139,
+        "avg_neu": 0.788,
+        "avg_neg": 0.07
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.145,
+        "w_ave_neu": 0.777,
+        "w_ave_neg": 0.078
+    },
+    "kindness": 0.3004484304932735,
+    "volatility": 1.1848341232227488,
+    "tags": ["atheist"]
+}

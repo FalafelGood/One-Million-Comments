@@ -1,0 +1,19 @@
+{
+    "channel-name": "agadmator's Chess Channel",
+    "channel-id": "@agadmator",
+    "tags": ["chess"],
+    "timestamp": "2025-11-03T14:11:09.787292",
+    "num-comments-analyzed": 1546,
+    "average-score": {
+        "avg_pos": 0.186,
+        "avg_neu": 0.753,
+        "avg_neg": 0.058
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.191,
+        "w_ave_neu": 0.764,
+        "w_ave_neg": 0.045
+    },
+    "kindness": 0.6186440677966103,
+    "volatility": 1.0989010989010988
+}

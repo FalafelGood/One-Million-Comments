@@ -1,0 +1,19 @@
+{
+    "channel-name": "youlazybum",
+    "channel-id": "@youlazybum",
+    "timestamp": "2025-10-30T14:20:00.039073",
+    "num-comments-analyzed": 789,
+    "average-score": {
+        "avg_pos": 0.263,
+        "avg_neu": 0.682,
+        "avg_neg": 0.043
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.247,
+        "w_ave_neu": 0.705,
+        "w_ave_neg": 0.042
+    },
+    "kindness": 0.7093425605536332,
+    "volatility": 1.098901098901099,
+    "tags": ["anime"]
+}

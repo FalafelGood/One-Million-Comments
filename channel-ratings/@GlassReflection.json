@@ -1,0 +1,19 @@
+{
+    "channel-name": "Glass Reflection",
+    "channel-id": "@GlassReflection",
+    "timestamp": "2025-10-30T14:19:15.066791",
+    "num-comments-analyzed": 16014,
+    "average-score": {
+        "avg_pos": 0.164,
+        "avg_neu": 0.765,
+        "avg_neg": 0.07
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.157,
+        "w_ave_neu": 0.772,
+        "w_ave_neg": 0.071
+    },
+    "kindness": 0.3771929824561404,
+    "volatility": 1.1655011655011656,
+    "tags": ["anime"]
+}

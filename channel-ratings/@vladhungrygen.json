@@ -1,0 +1,19 @@
+{
+    "channel-name": "Vlad Savchuk",
+    "channel-id": "@vladhungrygen",
+    "timestamp": "2025-10-30T13:57:48.544380",
+    "num-comments-analyzed": 1709,
+    "average-score": {
+        "avg_pos": 0.169,
+        "avg_neu": 0.766,
+        "avg_neg": 0.054
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.159,
+        "w_ave_neu": 0.754,
+        "w_ave_neg": 0.083
+    },
+    "kindness": 0.3140495867768595,
+    "volatility": 1.2048192771084338,
+    "tags": ["protestant"]
+}

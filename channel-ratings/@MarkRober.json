@@ -1,0 +1,19 @@
+{
+    "channel-name": "Mark Rober",
+    "channel-id": "@MarkRober",
+    "timestamp": "2025-10-30T14:29:11.495330",
+    "num-comments-analyzed": 46695,
+    "average-score": {
+        "avg_pos": 0.102,
+        "avg_neu": 0.852,
+        "avg_neg": 0.034
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.129,
+        "w_ave_neu": 0.813,
+        "w_ave_neg": 0.057
+    },
+    "kindness": 0.38709677419354843,
+    "volatility": 1.1299435028248588,
+    "tags": ["popular", "education"]
+}

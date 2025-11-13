@@ -1,0 +1,21 @@
+{
+    "channel-name": "James Charles",
+    "channel-id": "@JamesCharles",
+    "tags": [
+        "makeup"
+    ],
+    "timestamp": "2025-11-03T14:25:20.319681",
+    "num-comments-analyzed": 43543,
+    "average-score": {
+        "avg_pos": 0.179,
+        "avg_neu": 0.778,
+        "avg_neg": 0.039
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.166,
+        "w_ave_neu": 0.785,
+        "w_ave_neg": 0.05
+    },
+    "kindness": 0.537037037037037,
+    "volatility": 1.1098779134295227
+}

@@ -1,0 +1,19 @@
+{
+    "channel-name": "GMHikaru",
+    "channel-id": "@GMHikaru",
+    "tags": ["chess"],
+    "timestamp": "2025-11-03T14:11:15.727375",
+    "num-comments-analyzed": 1540,
+    "average-score": {
+        "avg_pos": 0.164,
+        "avg_neu": 0.765,
+        "avg_neg": 0.058
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.171,
+        "w_ave_neu": 0.767,
+        "w_ave_neg": 0.061
+    },
+    "kindness": 0.4741379310344828,
+    "volatility": 1.1402508551881414
+}

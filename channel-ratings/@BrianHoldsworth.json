@@ -1,0 +1,19 @@
+{
+    "channel-name": "Brian Holdsworth",
+    "channel-id": "@BrianHoldsworth",
+    "timestamp": "2025-10-30T14:12:36.446375",
+    "num-comments-analyzed": 21593,
+    "average-score": {
+        "avg_pos": 0.149,
+        "avg_neu": 0.774,
+        "avg_neg": 0.075
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.153,
+        "w_ave_neu": 0.775,
+        "w_ave_neg": 0.072
+    },
+    "kindness": 0.36000000000000004,
+    "volatility": 1.1682242990654206,
+    "tags": ["catholic"]
+}

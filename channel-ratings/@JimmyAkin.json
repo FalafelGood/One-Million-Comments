@@ -1,0 +1,19 @@
+{
+    "channel-name": "Jimmy Akin",
+    "channel-id": "@JimmyAkin",
+    "timestamp": "2025-10-30T14:03:27.376725",
+    "num-comments-analyzed": 4637,
+    "average-score": {
+        "avg_pos": 0.164,
+        "avg_neu": 0.777,
+        "avg_neg": 0.051
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.174,
+        "w_ave_neu": 0.775,
+        "w_ave_neg": 0.047
+    },
+    "kindness": 0.574660633484163,
+    "volatility": 1.1086474501108647,
+    "tags": ["catholic"]
+}

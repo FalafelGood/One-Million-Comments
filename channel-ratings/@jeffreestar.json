@@ -1,0 +1,21 @@
+{
+    "channel-name": "Jeffree Star",
+    "channel-id": "@jeffreestar",
+    "tags": [
+        "makeup"
+    ],
+    "timestamp": "2025-11-03T14:29:47.121329",
+    "num-comments-analyzed": 46812,
+    "average-score": {
+        "avg_pos": 0.223,
+        "avg_neu": 0.718,
+        "avg_neg": 0.056
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.175,
+        "w_ave_neu": 0.752,
+        "w_ave_neg": 0.069
+    },
+    "kindness": 0.43442622950819665,
+    "volatility": 1.1655011655011656
+}

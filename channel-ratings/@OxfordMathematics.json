@@ -1,0 +1,19 @@
+{
+    "channel-name": "OxfordMathematics",
+    "channel-id": "@OxfordMathematics",
+    "timestamp": "2025-10-30T13:44:02.296932",
+    "num-comments-analyzed": 1446,
+    "average-score": {
+        "avg_pos": 0.165,
+        "avg_neu": 0.782,
+        "avg_neg": 0.046
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.152,
+        "w_ave_neu": 0.786,
+        "w_ave_neg": 0.06
+    },
+    "kindness": 0.4339622641509434,
+    "volatility": 1.1389521640091116,
+    "tags": ["education"]
+}

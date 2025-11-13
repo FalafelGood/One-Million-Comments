@@ -1,0 +1,19 @@
+{
+    "channel-name": "Sabine Hossenfelder",
+    "channel-id": "@SabineHossenfelder",
+    "timestamp": "2025/10/28",
+    "num-comments-analyzed": 43985,
+    "average-score": {
+        "avg_pos": 0.116,
+        "avg_neu": 0.814,
+        "avg_neg": 0.067
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.121,
+        "w_ave_neu": 0.798,
+        "w_ave_neg": 0.078
+    },
+    "kindness": 0.21608040201005022,
+    "volatility": 1.1890606420927465,
+    "tags": ["education"]
+}

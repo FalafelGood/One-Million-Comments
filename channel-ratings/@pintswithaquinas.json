@@ -1,0 +1,19 @@
+{
+    "channel-name": "Matt Fradd",
+    "channel-id": "@pintswithaquinas",
+    "timestamp": "2025-10-28T17:08:25.249588",
+    "num-comments-analyzed": 1550,
+    "average-score": {
+        "avg_pos": 0.196,
+        "avg_neu": 0.722,
+        "avg_neg": 0.077
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.18,
+        "w_ave_neu": 0.733,
+        "w_ave_neg": 0.086
+    },
+    "kindness": 0.3533834586466165,
+    "volatility": 1.2091898428053205,
+    "tags": ["catholic"]
+}

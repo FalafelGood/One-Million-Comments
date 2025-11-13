@@ -1,0 +1,21 @@
+{
+    "channel-name": "Tyler Oakley",
+    "channel-id": "@TylerOakley",
+    "tags": [
+        "queer"
+    ],
+    "timestamp": "2025-11-03T14:52:59.424718",
+    "num-comments-analyzed": 20491,
+    "average-score": {
+        "avg_pos": 0.205,
+        "avg_neu": 0.736,
+        "avg_neg": 0.056
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.171,
+        "w_ave_neu": 0.765,
+        "w_ave_neg": 0.063
+    },
+    "kindness": 0.46153846153846156,
+    "volatility": 1.145475372279496
+}

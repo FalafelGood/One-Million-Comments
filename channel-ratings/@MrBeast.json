@@ -1,0 +1,19 @@
+{
+    "channel-name": "MrBeast",
+    "channel-id": "@MrBeast",
+    "timestamp": "2025-10-30T13:47:59.004634",
+    "num-comments-analyzed": 50000,
+    "average-score": {
+        "avg_pos": 0.143,
+        "avg_neu": 0.796,
+        "avg_neg": 0.035
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.159,
+        "w_ave_neu": 0.791,
+        "w_ave_neg": 0.05
+    },
+    "kindness": 0.5215311004784688,
+    "volatility": 1.1111111111111112,
+    "tags": ["popular"]
+}

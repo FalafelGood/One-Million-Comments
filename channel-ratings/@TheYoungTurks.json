@@ -1,0 +1,19 @@
+{
+    "channel-name": "The Young Turks",
+    "channel-id": "@TheYoungTurks",
+    "timestamp": "2025-10-30T14:34:02.824405",
+    "num-comments-analyzed": 24014,
+    "average-score": {
+        "avg_pos": 0.111,
+        "avg_neu": 0.77,
+        "avg_neg": 0.116
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.112,
+        "w_ave_neu": 0.766,
+        "w_ave_neg": 0.12
+    },
+    "kindness": -0.03448275862068963,
+    "volatility": 1.2919896640826873,
+    "tags": ["news", "left"]
+}

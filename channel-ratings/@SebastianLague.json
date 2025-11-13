@@ -1,0 +1,19 @@
+{
+    "channel-name": "Sebatian Lague",
+    "channel-id": "@SebastianLague",
+    "timestamp": "2025-10-28T20:53:54.567016",
+    "num-comments-analyzed": 43874,
+    "average-score": {
+        "avg_pos": 0.212,
+        "avg_neu": 0.75,
+        "avg_neg": 0.037
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.19,
+        "w_ave_neu": 0.755,
+        "w_ave_neg": 0.055
+    },
+    "kindness": 0.5510204081632654,
+    "volatility": 1.1235955056179776,
+    "tags": ["education"]
+}

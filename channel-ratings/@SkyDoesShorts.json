@@ -1,0 +1,21 @@
+{
+    "channel-name": "Sky Does Everything",
+    "channel-id": "@SkyDoesShorts",
+    "tags": [
+        "queer"
+    ],
+    "timestamp": "2025-11-03T14:50:02.072410",
+    "num-comments-analyzed": 11671,
+    "average-score": {
+        "avg_pos": 0.177,
+        "avg_neu": 0.749,
+        "avg_neg": 0.072
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.153,
+        "w_ave_neu": 0.77,
+        "w_ave_neg": 0.076
+    },
+    "kindness": 0.33624454148471616,
+    "volatility": 1.1806375442739079
+}

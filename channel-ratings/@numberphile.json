@@ -1,0 +1,19 @@
+{
+    "channel-name": "Numberphile",
+    "channel-id": "@numberphile",
+    "timestamp": "2025-10-28T16:49:32.342252",
+    "num-comments-analyzed": 24989,
+    "average-score": {
+        "avg_pos": 0.135,
+        "avg_neu": 0.817,
+        "avg_neg": 0.045
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.121,
+        "w_ave_neu": 0.82,
+        "w_ave_neg": 0.058
+    },
+    "kindness": 0.35195530726256985,
+    "volatility": 1.1325028312570782,
+    "tags": ["education"]
+}

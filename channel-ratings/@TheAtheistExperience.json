@@ -1,0 +1,19 @@
+{
+    "channel-name": "The Atheist Experience",
+    "channel-id": "@TheAtheistExperience",
+    "timestamp": "2025-10-30T14:08:46.475499",
+    "num-comments-analyzed": 2326,
+    "average-score": {
+        "avg_pos": 0.124,
+        "avg_neu": 0.765,
+        "avg_neg": 0.108
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.118,
+        "w_ave_neu": 0.766,
+        "w_ave_neg": 0.114
+    },
+    "kindness": 0.017241379310344786,
+    "volatility": 1.2987012987012987,
+    "tags": ["atheist"]
+}

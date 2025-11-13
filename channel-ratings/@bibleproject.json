@@ -1,0 +1,19 @@
+{
+    "channel-name": "BibleProject",
+    "channel-id": "@bibleproject",
+    "timestamp": "2025-10-30T13:57:41.382337",
+    "num-comments-analyzed": 7072,
+    "average-score": {
+        "avg_pos": 0.277,
+        "avg_neu": 0.678,
+        "avg_neg": 0.029
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.293,
+        "w_ave_neu": 0.679,
+        "w_ave_neg": 0.023
+    },
+    "kindness": 0.8544303797468353,
+    "volatility": 1.053740779768177,
+    "tags": ["protestant"]
+}

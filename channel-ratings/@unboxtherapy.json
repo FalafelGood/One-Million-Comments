@@ -1,0 +1,19 @@
+{
+    "channel-name": "Unbox Therapy",
+    "channel-id": "@unboxtherapy",
+    "timestamp": "2025-10-30T14:13:30.811738",
+    "num-comments-analyzed": 1752,
+    "average-score": {
+        "avg_pos": 0.119,
+        "avg_neu": 0.813,
+        "avg_neg": 0.06
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.127,
+        "w_ave_neu": 0.829,
+        "w_ave_neg": 0.043
+    },
+    "kindness": 0.4941176470588236,
+    "volatility": 1.095290251916758,
+    "tags": ["not-recommended"]
+}

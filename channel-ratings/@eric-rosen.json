@@ -1,0 +1,19 @@
+{
+    "channel-name": "Eric Rosen",
+    "channel-id": "@eric-rosen",
+    "tags": ["chess"],
+    "timestamp": "2025-11-03T14:14:24.642310",
+    "num-comments-analyzed": 6102,
+    "average-score": {
+        "avg_pos": 0.233,
+        "avg_neu": 0.699,
+        "avg_neg": 0.064
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.184,
+        "w_ave_neu": 0.755,
+        "w_ave_neg": 0.06
+    },
+    "kindness": 0.5081967213114754,
+    "volatility": 1.1376564277588168
+}

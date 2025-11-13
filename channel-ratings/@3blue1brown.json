@@ -1,0 +1,19 @@
+{
+    "channel-name": "3Blue1Brown",
+    "channel-id": "@3blue1brown",
+    "timestamp": "2025-10-28T16:42:42.432457",
+    "num-comments-analyzed": 29863,
+    "average-score": {
+        "avg_pos": 0.17,
+        "avg_neu": 0.786,
+        "avg_neg": 0.04
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.152,
+        "w_ave_neu": 0.809,
+        "w_ave_neg": 0.039
+    },
+    "kindness": 0.5916230366492146,
+    "volatility": 1.0845986984815619,
+    "tags": ["education"]
+}

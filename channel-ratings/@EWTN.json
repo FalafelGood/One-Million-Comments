@@ -1,0 +1,19 @@
+{
+    "channel-name": "EWTN",
+    "channel-id": "@EWTN",
+    "timestamp": "2025-10-30T14:03:35.289989",
+    "num-comments-analyzed": 293,
+    "average-score": {
+        "avg_pos": 0.202,
+        "avg_neu": 0.735,
+        "avg_neg": 0.043
+    },
+    "weighted-average-score": {
+        "w_ave_pos": 0.21,
+        "w_ave_neu": 0.739,
+        "w_ave_neg": 0.043
+    },
+    "kindness": 0.6600790513833992,
+    "volatility": 1.1037527593818985,
+    "tags": ["catholic"]
+}
